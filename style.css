@@ -1,6 +1,17 @@
 body{
     background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    margin: 100px;
 }
 img{
     width: 100%;
+}
+
+h1{
+    text-align: center
+   
+}
+
+p{
+    text-align: center;
 }
